@@ -29,7 +29,7 @@ const User = [
 	{
 		type:'input',
 		name:'target',
-		message:'Insert Username Target (Without @[at])',
+		message:'Insert Username Target (Without @[at])'g,
 		validate: function(value){
 			if(!value) return 'Can\'t Empty';
 			return true;
@@ -38,7 +38,7 @@ const User = [
 	{
 		type:'input',
 		name:'text',
-		message:'Insert Text Comment 1 (Gunakan Pemisah [|] bila lebih dari 1)',
+		message:'Insert Text Comment 1 (Gunakan Pemisah [|] bila lebih dari 1)'Follback | Follback kak | Kak Follback  | Follback yaa | Follback yah | Follback syng :) | Follback yaa kak | Follbck | Follbck kak | Kak Follbck | Follbck yaa | Follbck yah | Follbck syng | Follbck yaa kak | Followback | Followback kak | Kak Followback | Followback syng | Followback yaa kak | Followbck | Followbck kak | Kak Followbck | Followbck syng | Followbck yaa kak | Follback 😘 | Follback kak 😘 | Kak Follback 😘 | Follback yaa 😘 | Follback yah 😘 | Follback syng :) 😘 | Follback yaa kak 😘 | Follbck 😘 | Follbck kak 😘 | Kak Follbck 😘 | Follbck yaa 😘 | Follbck yah 😘 | Follbck syng 😘 | Follbck yaa kak 😘 | Followback 😘 | Followback kak 😘 | Kak Followback 😘 | Followback syng 😘 | Followback yaa kak 😘 | Followbck 😘 | Followbck kak  😘  | Kak Followbck  😘  | Followbck syng 😘  | Followbck yaa kak 😘  | Follback 😊 | Follback kak 😊 | Kak Follback 😊 | Follback yaa 😊 | Follback yah 😊 | Follback syng :) 😊 | Follback yaa kak 😊 | Follbck 😊 | Follbck kak 😊 | Kak Follbck 😊 | Follbck yaa 😊 | Follbck yah 😊 | Follbck syng 😊 | Follbck yaa kak 😊 | Followback 😊 | Followback kak 😊 | Kak Followback 😊 | Followback syng 😊 | Followback yaa kak 😊 | Followbck 😊 | Followbck kak 😊 | Kak Followbck 😊 | Followbck syng 😊 | Followbck yaa kak 😊,
 		validate: function(value){
 			if(!value) return 'Can\'t Empty';
 			return true;
